@@ -40,8 +40,6 @@ sudo apt install ros-dev-tools
 ```
   ## Installation gazebo et les modules nécessaires
 * Installation gazebo pour ROS2 Foxy
-  
-* Installation gazebo robot localisation package
 ```bash
 sudo apt install ros-foxy-gazebo-ros-pkgs
 ```
